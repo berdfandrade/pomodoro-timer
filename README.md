@@ -1,5 +1,7 @@
 # Pomodoro Timer
 
+![363shots_so](https://github.com/berdfandrade/pomodoro-timer/assets/96706881/f38b1d17-621c-4673-a94f-1f26b41a652b)
+
 O componente `Pomodoro` é um timer baseado na técnica de gerenciamento de tempo conhecida como Pomodoro. Ele exibe um contador regressivo e fornece opções para iniciar, pausar e reiniciar o timer. O componente foi construído utilizando a biblioteca React e o framework de UI Chakra UI.
 
 Para utilizar o componente `Pomodoro`, você precisará instalar as seguintes dependências:
@@ -18,7 +20,10 @@ Certifique-se de que você esteja no diretório do seu projeto antes de executar
 
 Após a instalação das dependências, você poderá importar e usar o componente `Pomodoro` no seu aplicativo.
 
+
 O Relógio possui também um modo escuro!
+
+![17shots_so](https://github.com/berdfandrade/pomodoro-timer/assets/96706881/92e87279-eccc-447d-8b90-3d5ee2074dde)
 
 ## Props
 
